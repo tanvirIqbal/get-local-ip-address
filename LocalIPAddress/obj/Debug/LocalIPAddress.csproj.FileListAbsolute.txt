@@ -1,0 +1,6 @@
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\bin\Debug\LocalIPAddress.exe.config
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\bin\Debug\LocalIPAddress.exe
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\bin\Debug\LocalIPAddress.pdb
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\obj\Debug\LocalIPAddress.csprojResolveAssemblyReference.cache
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\obj\Debug\LocalIPAddress.exe
+c:\users\tanviriqbal\documents\visual studio 2015\Projects\LocalIPAddress\LocalIPAddress\obj\Debug\LocalIPAddress.pdb
